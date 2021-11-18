@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SplashAnimation</string>
+
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="correo">Correo</string>
+    <string name="Email">Email</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento</string>
+    <string name="confirmar_contrasena">Confirmar Contraseña</string>
+
+</resources>

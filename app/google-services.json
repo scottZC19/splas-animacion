@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86706792341",
+    "project_id": "autenticacionproyect",
+    "storage_bucket": "autenticacionproyect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86706792341:android:b3933a4cb5c54ac1f3389c",
+        "android_client_info": {
+          "package_name": "com.example.splashanimation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86706792341-af6g4hkqmenngu7t1i32ffop6l51i4g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9DD1-AGeygyNs77etJnLVIaKGltvGREw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86706792341-af6g4hkqmenngu7t1i32ffop6l51i4g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
